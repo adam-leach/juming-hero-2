@@ -1,0 +1,18 @@
+{
+    "name": "Juming Hero 2",
+    "dependencies": {
+        "device": "*",
+        "animation": "*",
+        "jacdac-game": "*"
+    },
+    "description": "",
+    "files": [
+        "main.blocks",
+        "main.ts",
+        "README.md"
+    ],
+    "preferredEditor": "blocksprj",
+    "testFiles": [
+        "test.ts"
+    ]
+}
